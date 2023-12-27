@@ -11,4 +11,4 @@ Key Highlights :
 3.Optimized skill in creating data model,implemented data transformations and calculations using DAX for accurate analysis and reporting.
 
 PBIX File Link : https://drive.google.com/file/d/17kRum2_IYGNAmbRgDYSwbFlQlDbqXNXL/view?usp=sharing
-PDF Link : https://drive.google.com/file/d/14ZWgloJ2r-5tTpAoZWHlNaChefg4dAED/view?usp=sharing
+PDF Link : https://drive.google.com/file/d/1SLByQjn5CLR7D-VbqExeIWzZFuMezZAU/view?usp=sharing
